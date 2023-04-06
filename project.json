@@ -3,8 +3,6 @@
   "description": "This bot will scrape data from receipt image using OCR.",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.20.0-preview]",
-    "UiPath.Mail.Activities": "[1.18.2]",
     "UiPath.PDF.Activities": "[3.14.0]",
     "UiPath.System.Activities": "[23.4.1-preview]",
     "UiPath.Testing.Activities": "[23.4.0-preview]",
